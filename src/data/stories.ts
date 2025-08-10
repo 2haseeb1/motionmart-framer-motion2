@@ -22,19 +22,19 @@ export const stories: StoryData[] = [
         alt: "Background layer",
       },
       {
-        src: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1600&auto=format&fit=crop",
+        src: "https://images.piclumen.com/normal/20250811/00/7d9450e5efb44d4da585481809d384ea.webp",
         speed: 0.25,
         alt: "Mid layer",
       },
       {
-        src: "https://images.unsplash.com/photo-1553531768-78e10f2da951?q=80&w=1600&auto=format&fit=crop",
+        src: "https://images.piclumen.com/normal/20250811/00/7d9450e5efb44d4da585481809d384ea.webp",
         speed: 0.45,
         alt: "Foreground layer",
       },
     ],
     gallery: [
-      "https://images.unsplash.com/photo-1553531768-78e10f2da951?q=80&w=1200&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1545235617-9465d2a55698?q=80&w=1200&auto=format&fit=crop",
+      "",
+      "",
       "https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?q=80&w=1200&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1485217988980-11786ced9454?q=80&w=1200&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
